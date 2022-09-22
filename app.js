@@ -10,7 +10,7 @@ const ask = () =>{
     const answerInput = document.getElementById('answer');
     answerInput.value =answer;
 }else{
-    alert("A donde crées que vas imbecil >:(");
+    alert("A donde crées que vas >:( Preguntame algo :(");
     answerInput.value = "";
 }
 };
